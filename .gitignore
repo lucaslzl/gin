@@ -1,0 +1,9 @@
+\.DS_Store
+
+/output/data/*
+
+*.pyc
+
+*.log
+
+.vscode/settings.json
