@@ -5,7 +5,7 @@
 
 :man_student: This project is part of my Marter's degree at Universidade Estadual de Campinas ([UNICAMP](https://ic.unicamp.br/)). 
 
-:airplane: It was published in IEEE ISCC 2020](https://conferences.imt-atlantique.fr/iscc2020/) and the paper :notebook: is available at [GIN: Better going safe with personalized routes](https://ieeexplore.ieee.org/document/9219615)
+:airplane: It was published in [IEEE ISCC 2020](https://conferences.imt-atlantique.fr/iscc2020/) and the paper :notebook: is available at [GIN: Better going safe with personalized routes](https://ieeexplore.ieee.org/document/9219615)
 
 :racing_car: The goal is propose a Traffic Management System (TMS) that manages traffic by suggesting routes to vehicles. It has three modules being context window identification ([MARTINI](https://github.com/lucaslzl/martini)), context mapping, routing personalization. The previous version of the TMS proposed is [CERVA](https://github.com/lucaslzl/cerva). The novelty compared with the previous work comprehends mainly the strategy to process contextual data and decrease traffic to the cloud server, some minor tweaks in the modules to improve performance.
 
