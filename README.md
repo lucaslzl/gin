@@ -1,4 +1,4 @@
-# GIN - ISCC 2020
+# GIN - IEEE ISCC 2020
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/lucaslzl/cerva/issues)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
